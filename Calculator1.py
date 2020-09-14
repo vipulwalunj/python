@@ -6,4 +6,5 @@ multiplication=a*b
 division=a/b
 floor_div=a//b
 exp=a**b
-print(add\nsub\nmultiplication\ndivision\nfloor_div\nexp) 
+print(add\n sub\n multiplication\n division\n floor_div\n exp) 
+
