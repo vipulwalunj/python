@@ -1,8 +1,0 @@
-#print the following
-#\n \t \'
-# This is \\ double backslash
-#there are /\/\/\ mountains
-
-print("this is \\\\ double backslash ") 
-print(" There are /\\/\\/\\ mountains ") 
-print("\\n \\t \\\'") 

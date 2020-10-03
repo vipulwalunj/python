@@ -1,7 +1,0 @@
-#dict comprehension using if else
-#d={1:'odd',2:'even'}
-#-------------------------------
-
-n=int(input("enter a no: "))
-odd_even={i:"odd" if i%2!=0 else "even" for i in range(1,n)}
-print(odd_even)
